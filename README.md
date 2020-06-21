@@ -1,4 +1,4 @@
-# Machine_learming_Course_by_Coursera
+# Machine_learning_Course_by_Coursera
 
 This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition.
 Topics include:

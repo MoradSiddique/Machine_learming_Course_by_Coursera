@@ -1,0 +1,14 @@
+'C:\Users\ang\Desktop\ml-class-ex1'. And if I want to make sure that 
+I've implemented this, type 'warmUpExercise()' like so.
+ And yup, it returns the 5x5 identity matrix that
+ we just wrote the code to create. And I can now submit the code as follows.
+ I'm going to type 'submit()' in this directory and
+ I'm ready to submit part 1 so I'm going to enter choice '1'.
+ So it asks me for my email address. I'm going go to the course website.
+ This is an internal testing site, 
+so your version of the website may look a little bit different.
+ But that's my email address and this is my submission password, 
+and I'm just going to type them in here. 
+So I have ang@cs.stanford.edu and my submission password is 9yC75USsGf.
+ I'm going to hit enter; it connects to the server and submits it, 
+and right away it tells you "Congratulations!
